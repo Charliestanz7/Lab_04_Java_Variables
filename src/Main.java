@@ -26,7 +26,7 @@ public class Main {
         double myLunchCost = 12.50;
         System.out.println("The lunch cost is " + myLunchCost);
         int numFamKids = 3;
-        System.out.println("The number of fam Kids is " + numFamKids);
+        System.out.println("The number of kids in the family is " + numFamKids);
         boolean isRaining = true;
         if (isRaining) {System.out.println("It is raining");
         double galGasPrice = 3.43;
